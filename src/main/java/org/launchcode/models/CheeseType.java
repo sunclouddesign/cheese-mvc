@@ -7,7 +7,7 @@ public enum CheeseType {
 
     HARD ("Hard"),
     SOFT ("Soft"),
-    FAKE ("Fake");
+    PLANT_BASED ("Plant-based");
 
     private final String name;
 
